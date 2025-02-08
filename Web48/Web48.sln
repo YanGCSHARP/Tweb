@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web48", "Web48\Web48.csproj", "{59E7C406-B56D-4F30-AAE3-317739210E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E7C406-B56D-4F30-AAE3-317739210E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E7C406-B56D-4F30-AAE3-317739210E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E7C406-B56D-4F30-AAE3-317739210E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E7C406-B56D-4F30-AAE3-317739210E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
